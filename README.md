@@ -1,4 +1,4 @@
-Windows 1x
+Windows 1.0 Clone
 In this project I am going to clone windows 1.0 which was developed by Microsoft in 1985
 
 In this project  I am going to make I 8x efficient than original
